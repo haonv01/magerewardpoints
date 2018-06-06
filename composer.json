@@ -1,5 +1,5 @@
 {
-  "name": "Magento2RewardPoints",
+  "name": "haonv01/marewardpoints",
   "description": "Magento 2 Reward Points system pulls your customers closer when letting them earn and spend points as a discount or another payment method during purchasing.",
   "type": "magento-2-module",
   "version": "1.7.3",
