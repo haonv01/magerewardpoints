@@ -1,0 +1,26 @@
+{
+  "name": "Magento 2 Reward Points",
+  "description": "Magento 2 Reward Points system pulls your customers closer when letting them earn and spend points as a discount or another payment method during purchasing.",
+  "type": "magento-2-module",
+  "version": "1.7.3",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Magento 2 Reward Points",
+      "email": "hello@magerewardpoints.com",
+      "homepage": "https://magerewardpoints.com",
+      "role": "Support"
+    }
+  ],
+  "minimum-stability": "dev",
+  "keywords": [
+    "magento 2",
+    "magento 2 reward points",
+    "magento reward points",
+    "Magento reward poitns extension",
+    "smtp",
+    "loyalty program",
+    "Magento loyalty program"
+  ]
+  }
+}
